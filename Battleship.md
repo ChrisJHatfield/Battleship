@@ -3,21 +3,21 @@ Things to do:
 Classes:
     [] 1) Players
     public:
-        [] - Name
-        [] - Each has 1 of each ship
+        [X] - Name
+        [X] - Each has 1 of each ship
         [] - Player Grid Class
-        [] - Methods:
+        [-x-] - Methods:
             ` Greeting (Player Name)
     [] 2) Ship Class
     public:
-        [] - Name
+        [X] - Name
             ~ Carrier (5)
             ~ Destroyer (2)
             ~ Battleship (4)
             ~ Submarine (3)
             ~ Cruiser (3)
-        [] - Length
-        [] - Health Bar (= Length)
+        [X] - Length
+        [X] - Health Bar (= Length)
         [] - Position: X & Y
             ` Can't overlap positions.
     [] 3) Grid Class

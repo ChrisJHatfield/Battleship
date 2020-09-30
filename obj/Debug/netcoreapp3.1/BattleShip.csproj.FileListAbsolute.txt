@@ -1,0 +1,12 @@
+/Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.csprojAssemblyReference.cache
+/Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.AssemblyInfoInputs.cache
+/Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.AssemblyInfo.cs
+/Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.csproj.CoreCompileInputs.cache
+/Users/jimboslice/Desktop/Hackathon/Battleship/bin/Debug/netcoreapp3.1/BattleShip.deps.json
+/Users/jimboslice/Desktop/Hackathon/Battleship/bin/Debug/netcoreapp3.1/BattleShip.runtimeconfig.json
+/Users/jimboslice/Desktop/Hackathon/Battleship/bin/Debug/netcoreapp3.1/BattleShip.runtimeconfig.dev.json
+/Users/jimboslice/Desktop/Hackathon/Battleship/bin/Debug/netcoreapp3.1/BattleShip.dll
+/Users/jimboslice/Desktop/Hackathon/Battleship/bin/Debug/netcoreapp3.1/BattleShip.pdb
+/Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.dll
+/Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.pdb
+/Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.genruntimeconfig.cache

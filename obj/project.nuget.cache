@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0qVcOHjCoCwpyT4VTxzlCnGEpOPPyM/1LcmnQRVNaWaggpvPfV5RjGoZkZqdNtDxb+1X0LxS9lNSFhelTjVnXA==",
+  "dgSpecHash": "QewEWOlj/n1nYt0VXwboRYLx8OLC3137gYAskSPip2KGWmEMD9G/1vvdDhj7yqr0MTaHZk6PqaDnUuyBFsvyOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\Desktop\\CodingDojo\\C#\\Assignments\\BattleShip\\BattleShip.csproj",
+  "projectFilePath": "/Users/jimboslice/Desktop/Hackathon/Battleship/BattleShip.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

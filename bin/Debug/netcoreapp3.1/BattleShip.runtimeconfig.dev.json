@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jimboslice/.dotnet/store/|arch|/|tfm|",
+      "/Users/jimboslice/.nuget/packages"
+    ]
+  }
+}
