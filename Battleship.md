@@ -5,7 +5,7 @@ Classes:
     public:
         [X] - Name
         [X] - Each has 1 of each ship
-        [] - Player Grid Class
+        [x] - Player Grid Class
         [-x-] - Methods:
             ` Greeting (Player Name)
     [] 2) Ship Class
@@ -20,9 +20,9 @@ Classes:
         [X] - Health Bar (= Length)
         [] - Position: X & Y
             ` Can't overlap positions.
-    [] 3) Grid Class
+    [x] 3) Grid Class
     public:
-        [] `2d Array (10x10)(row = 1-10, column = a-j)
+        [x] `2d Array (10x10)(row = 1-10, column = a-j)
     [] 4) Game Class
     public:
         [] - Methods:

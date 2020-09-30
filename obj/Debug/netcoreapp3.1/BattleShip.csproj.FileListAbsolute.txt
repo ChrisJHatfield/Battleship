@@ -10,3 +10,16 @@
 /Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.dll
 /Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.pdb
 /Users/jimboslice/Desktop/Hackathon/Battleship/obj/Debug/netcoreapp3.1/BattleShip.genruntimeconfig.cache
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfo.cs
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.dll
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.pdb
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.exe
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.deps.json
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.json
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.dev.json
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.dll
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.pdb
+C:\Users\Chris\Desktop\CodingDojo\C#\Assignments\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.genruntimeconfig.cache
